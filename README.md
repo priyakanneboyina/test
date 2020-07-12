@@ -1,7 +1,7 @@
-# test
+# This is a type 1 header written with markdown
 
 ## This is a type 2 header
 
-test repository
+this is a description
 
-<h1>This is a type 1 header using htm </h1>
+<h1>This is a type 1 header using html</h1>
